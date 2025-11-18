@@ -7,6 +7,11 @@
 
 ## Pengerjaan
 
+**Topologi**
+
+<img width="641" height="374" alt="image" src="https://github.com/user-attachments/assets/64a0d5b8-8a73-4d6d-ab05-b9584e1d0d17" />
+
+
 **VLSM Tree**
 
 <img width="2963" height="2087" alt="vlsm tree" src="https://github.com/user-attachments/assets/ad6f3998-2950-413a-b574-23580f3f62a6" />
